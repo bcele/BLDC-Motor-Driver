@@ -13,3 +13,14 @@ Closed-loop BLDC motor driver with PID speed control, ADC-DMA current sensing an
 
 ## Notes
 Project supported by TÜBİTAK 2209-B.
+
+### Block Diagram
+![Block Diagram](images/block_diagram.png)
+
+## Hardware
+
+### PCB Layout
+![PCB Layout](images/PCB_2D.png)
+
+### Assembled PCB
+![Assembled PCB](images/PCB_assembled.png)
